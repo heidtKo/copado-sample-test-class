@@ -1,0 +1,1 @@
+# copado-sample-test-class
