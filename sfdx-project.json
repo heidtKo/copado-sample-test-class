@@ -1,11 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "CopadoRoboticsAutomationAccelerators",
+      "path": "force-app",
       "default": true
     }
   ],
-  "name": "CopadoRoboticAutomationAccelerators",
+  "name": "copado-sample-test-class",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "61.0"
