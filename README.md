@@ -19,8 +19,7 @@ Highlights:
 ## How to use it?
 - read and understand
 - Use Copado AI (Build Agent), gemini, cursor, ... to reference the sample and build your logic on top of it.
-- Deploy those classes to your org via SF CLI and build on top of it.
--- Prerequisites: sf cli, copado deployer (base package) v25.28 or above, dx extension package 7.23 or above
+- Deploy those classes to your org via SF CLI and build on top of it. Prerequisites: sf cli, copado deployer (base package) v25.28 or above, dx extension package 7.23 or above
 
 ## What if it stops working?
 This repo IS NOT owned by Copado, so it WILL NOT BE MAINTAINED by Copado.
