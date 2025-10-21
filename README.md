@@ -14,6 +14,7 @@ Highlights:
 - CopadoTestUtility, a class with methods to work around copado permissions & licenses
 - CopadoSampleTestClass, a sample test class which can be used as inspiration and starting point
 - Expression_FlowsInPromotion & Test: A logic to get the list of flows in a promotion and parse them as JSON & the respective test class
+- copado_object_schema.json: use this as context in your AI workspace to reduce schema related issues or hallucinations
 
 ## How to use it?
 - read and understand
