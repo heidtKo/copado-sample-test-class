@@ -57,5 +57,5 @@ def parse_sfdx_objects(base_path):
 if __name__ == "__main__":
     base_directory = "force-app/main/default"  # Adjust this to your actual project path
     result = parse_sfdx_objects(base_directory)
-    with open("output.json", "w") as outfile:
+    with open("copado_object_schema.json", "w") as outfile:
         json.dump(result, outfile, indent=4)
